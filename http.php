@@ -1,8 +1,8 @@
 <?php
 
-	namespace developer-star\http;
+	namespace phpish\http;
 
-	const USERAGENT = 'developer-star/http';
+	const USERAGENT = 'phpish/http';
 
 	// TODO: https://github.com/sandeepshetty/wcurl/issues/1
 
